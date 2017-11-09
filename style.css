@@ -61,7 +61,7 @@ h1.jumbotron {
   font-size: 100px;
 }
 
-p.jumbotron {
+.jumbotron p {
   font-size: 20px;
   padding-left: 40px;
   padding-right: 40px;
